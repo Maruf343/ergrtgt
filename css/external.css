@@ -1,0 +1,17 @@
+.bc-color{
+	font-color: white;
+}
+h2{
+	color: white;
+	border: 2px solid black;
+	padding: 50px;
+	background-color: #000;
+}
+body{
+	background-image: url(../image/pic1.jpg);
+	background-repeat: no-repeat;
+	background-size: 100% 600px;
+}
+.p-box{
+	background: rgba(28, 24, 26, 0.29);
+}
